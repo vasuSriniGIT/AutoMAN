@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.hdf5
+*.csv
+*.tsv
+*.log
+.DS_Store
+.ipynb_checkpoints/
+DATA_MAN/
